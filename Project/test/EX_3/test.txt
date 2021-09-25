@@ -1,0 +1,124 @@
+Bac cua da thuc: 5
+Da thuc f(x) = 1x^5 + 7x^4 + 14x^3 + 2x^2 + -15x^1 + -9
+Da thuc f'(x) = 5x^4 + 28x^3 + 42x^2 + 4x^1 + -15
+Da thuc f''(x) = 20x^3 + 84x^2 + 84x^1 + 4
+--------------------------------------
++ Doi voi can tren:
+He so am dau tien: k = 4
+Max cua cac tri tuyet doi cua cac he so am la: B = 15
+Can tren cua mien chua nghiem: 2.96799
++ Doi voi can duoi: 
+He so am dau tien: k = 1
+Max cua cac tri tuyet doi cua cac he so am la: B = 15
+Can duoi cua mien chua nghiem la: -16
+--------------------------------------
+Tim cac diem cuc tri
+Nghiem ky di: (-3; 0)
+Diem cuc tri: (-2.08062; -3.0407)
+Nghiem ky di: (-1; 0)
+Diem cuc tri: (0.480625; -13.7939)
+--------------------------------------
+Cac khoang phan ly nghiem (truoc khi dung chia doi):
+(0.481625; 2.96699)
+--------------------------------------
+Cac khoang phan ly nghiem sau khi dung chia doi: 
+khoang so 1: 
+a = 0.481625 | b = 2.96699 | c = 1.72431 | f(a) * f(c) = -1654.99
+a = 0.481625 | b = 1.72431 | c = 1.10297 | f(a) * f(c) = -105.74
+a = 0.481625 | b = 1.10297 | c = 0.792295 | f(a) * f(c) = 132.359
+(0.792295; 1.10297)
+--------------------------------------
+Ban dang dung chuc nang so 3
+Cac nghiem ki di (nghiem boi) (neu co): -3 -1 
+Gia tri nho nhat va lon nhat cua f'(x) tren (0.792295; 1.10297) la : m1 = 30.4299 va M1 = 85.4764
+Diem fourier: x0 = 0.792295 va d = 1.10297
+So lan lap: 50
+Qua trinh lap: 
+       x1 = 0.964997
+       x2 = 0.99494
+       x3 = 0.999287
+       x4 = 0.9999
+       x5 = 0.999986
+       x6 = 0.999998
+       x7 = 1
+       x8 = 1
+       x9 = 1
+       x10 = 1
+       x11 = 1
+       x12 = 1
+       x13 = 1
+       x14 = 1
+       x15 = 1
+       x16 = 1
+       x17 = 1
+       x18 = 1
+       x19 = 1
+       x20 = 1
+       x21 = 1
+       x22 = 1
+       x23 = 1
+       x24 = 1
+       x25 = 1
+       x26 = 1
+       x27 = 1
+       x28 = 1
+       x29 = 1
+       x30 = 1
+       x31 = 1
+       x32 = 1
+       x33 = 1
+       x34 = 1
+       x35 = 1
+       x36 = 1
+       x37 = 1
+       x38 = 1
+       x39 = 1
+       x40 = 1
+       x41 = 1
+       x42 = 1
+       x43 = 1
+       x44 = 1
+       x45 = 1
+       x46 = 1
+       x47 = 1
+       x48 = 1
+       x49 = 1
+       x50 = 1
+=> Nghiem tim duoc la: 1
+Voi sai so theo cong thuc 1 la: 0
+Voi sai so theo cong thuc 2 la: 0
+--------------------------------------
+Ban dang dung chuc nang so 4
+Cac nghiem ki di (nghiem boi) (neu co): -3 -1 
+Gia tri nho nhat va lon nhat cua f'(x) tren (0.792295; 1.10297) la : m1 = 30.4299 va M1 = 85.4764
+Epsilon ma ban da nhap: 0.0003
+Diem fourier: x0 = 0.792295 va d = 1.10297
+Qua trinh lap theo cong thuc tien nghiem:
+       x0 = 0.792295
+       x1 = 0.964997
+       x2 = 0.99494
+       x3 = 0.999287
+=> Nghiem theo cong thuc sai so tien nghiem: 0.9999
+
+Qua trinh lap theo cong thuc hau nghiem: 
+       x0 = 0.792295 va x1 = 0.964997
+       x1 = 0.964997 va x2 = 0.99494
+       x2 = 0.99494 va x3 = 0.999287
+       x3 = 0.999287 va x4 = 0.9999
+       x4 = 0.9999 va x5 = 0.999986
+=> Nghiem theo cong thuc sai so hau nghiem: 0.999986
+--------------------------------------
+Ban dang dung chuc nang so 5
+Cac nghiem ki di (nghiem boi) (neu co): -3 -1 
+Ban chon khoang nghiem: (0.792295; 1.10297)
+Epsilon ma ban da nhap: 3e-05
+Diem fourier: x0 = 0.792295 va d = 1.10297
+Qua trinh lap: 
+       x0 = 0.792295 va x1 = 0.964997
+       x1 = 0.964997 va x2 = 0.99494
+       x2 = 0.99494 va x3 = 0.999287
+       x3 = 0.999287 va x4 = 0.9999
+       x4 = 0.9999 va x5 = 0.999986
+       x5 = 0.999986 va x6 = 0.999998
+=> Nghiem thu duoc la: 0.999998
+--------------------------------------
